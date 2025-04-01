@@ -1,1 +1,11 @@
 # Therajlal_mlops_works
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Theraj_Lal_RS/Therajlal_mlops_works.mlflow
+MLFLOW_TRACKING_USERNAME=Theraj_Lal_RS
+MLFLOW_TRACKING_PASSWORD=0ce0c84fea57953955cd0a2088ad75a07d8ace1b
+
+'''bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/Theraj_Lal_RS/Therajlal_mlops_works.mlflow
+export MLFLOW_TRACKING_USERNAME=Theraj_Lal_RS
+export MLFLOW_TRACKING_PASSWORD=0ce0c84fea57953955cd0a2088ad75a07d8ace1b
+'''
